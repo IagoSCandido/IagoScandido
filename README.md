@@ -6,7 +6,7 @@
 </div>
 
 <div>
-<p>🌱 I’m currently learning Java and MySQL for bakcend web applications.</p>
+<p>🌱 I’m currently learning Java Spring Boot and MySQL for backend web applications.</p>
 <p>📫 How to reach me: <a href="mailto:iago.scandido3@gmail.com"> iago.scandido3@gmail.com </a></p>
 </div>
 
