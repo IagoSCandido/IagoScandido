@@ -1,12 +1,12 @@
 <div align="center"> 
   <h1>Hi there I'm Iago Silva</h1>
   <h3>A programmer in development</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoScandido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoScandido&layout=compact&langs_count=7&theme=dracula"/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoScandido&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
 
 <div>
-<p>🌱 I’m currently learning Java Spring Boot and MySQL for backend web applications.</p>
+<p>🌱 I’m currently learning Java Spring Boot and PostgreSQl for backend web applications.</p>
 <p>📫 How to reach me: <a href="mailto:iago.scandido3@gmail.com"> iago.scandido3@gmail.com </a></p>
 </div>
 
