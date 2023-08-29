@@ -15,7 +15,7 @@
     <a href="https://linkedin.com/in/iago-da-silva-candido" target="blank">
       <img align="center" src="https://cdn.simpleicons.org/linkedin" alt="iago-da-silva-candido" height="30" width="40" />
     </a>
-    <a href="**iagoscandido3@gmail.com**" target="blank">
+    <a href="mailto:iagoscandido3@gmail.com" target="blank">
       <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Email me" height="30" width="40" />
     </a>
     </p>
