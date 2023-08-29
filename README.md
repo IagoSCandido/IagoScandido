@@ -7,16 +7,18 @@
 
 <div align="center">
   <p>🌱 I’m currently learning Java Spring Boot and PostgreSQL for backend web applications.</p>
-  <p>📫 How to reach me: <a href="mailto:iago.scandido3@gmail.com"> iago.scandido3@gmail.com </a></p>
 </div>
 
 <div align="center"> 
-  <h3>Connect with me:</h3>
+  <h3>How to reach me:</h3>
   <p style="background-color: #FFF; width:40px;height:35px; border-radius:5px; padding-top:5px;">
     <a href="https://linkedin.com/in/iago-da-silva-candido" target="blank">
       <img align="center" src="https://cdn.simpleicons.org/linkedin" alt="iago-da-silva-candido" height="30" width="40" />
     </a>
-  </p>
+    <a href="**iagoscandido3@gmail.com**" target="blank">
+      <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Email me" height="30" width="40" />
+    </a>
+    </p>
 </div>
 <div align="center">
   <h3>Language</h3>
