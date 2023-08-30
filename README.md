@@ -21,7 +21,7 @@
     </p>
 </div>
 <div align="center">
-  <h3>Language</h3>
+  <h3>Languages:</h3>
   <p style="background-color: #FFF;height:45px; width:220px;border-radius:5px; padding-top:5px;">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -32,7 +32,7 @@
     <a href="https://www.spring.io" target="_blank">
     <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" width="40" height="40"/>
   </a>
-  <h3>Tools</h3>
+  <h3>Tools:</h3>
     <a href="https://www.postman.com/" target="_blank">
         <img src="https://cdn.simpleicons.org/postman" alt="PostgreSQL" width="40" height="40"/>
     </a>
